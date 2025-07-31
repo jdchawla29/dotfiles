@@ -30,7 +30,7 @@ nvm install 22
 # Install Claude Code
 npm install -g @anthropic-ai/claude-code
 
-# Clone dotfiles repo - UPDATE THIS URL
+# Clone dotfiles repo
 git clone https://github.com/jdchawla29/dotfiles "$HOME/dotfiles"
 
 # Create symlinks
